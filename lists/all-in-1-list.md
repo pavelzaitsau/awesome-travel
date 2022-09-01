@@ -26,7 +26,7 @@
 
 ## Жилье
 
-- [Booking](https://booking.com), [Airbnb](https://airbnb.com), [Expedia](https://expedia.com)
+- [Booking](https://booking.com), [Airbnb](https://airbnb.com), [Expedia](https://expedia.com), [Hotels](https://hotels.com)
 
 - [Hotellook](https://hotellook.com), [HotelsCombined](https://hotelscombined.com), [KAYAK](https://kayak.ru/hotels)– мета-поисковики.
 
@@ -166,17 +166,7 @@
 
 - [Like a local](https://likealocalguide.com) – советы от местных жителей.
 
-- [iknow.travel](https://iknow.travel) – много интересных идей для путешествий. Варианты пешеходных прогулок на 1 день, списки и подборки интересных кафе, ресторанов, магазинов.
-
 - [Tonkosti.ru](https://tonkosti.ru) – информационный интернет-справочник для туристов
-
-- [Туристер.Ру](https://tourister.ru) – социальная сеть для туристов, блоги, отзывы, фотографии, мнения
-
-- [Marshruty.ru](https://marshruty.ru)(Маршруты.ру) – сообщество путешественников и сервис с картами и маршрутами.
-
-- [Autotravel.ru](https://autotravel.ru) – сайт, посвященный путешествиям на автомобиле по России (и не только).
-
-- [Turizm.ru](https://turizm.ru) – информационный портал о туристической жизни в России и ближнем зарубежье
 
 - [Lost In](https://lostin.com) – англоязычный журнал с путеводителями по городам. Информацию собирают местные жители. Получается очень неплохо.
 
@@ -184,11 +174,7 @@
 
 - [Selfmadetrip](https://selfmadetrip.com) – интернет-журнал о путешествиях, волонтерских программах, обучении за границей и иммиграции
 
-- [Самокатус](https://samokatus.ru) – акции, распродажи, гиды, советы путешественникам.
-
 - [Lonely Planet](https://lonelyplanet.com) – самые популярные в мире путеводители. Книги написаны профессиональными журналистами-путешественниками.
-
-- [Smorodina](https://smorodina.com) – сайт для планирования поездок по России. Карта достопримечательностей России, созданная путешественниками.
 
 ## Подготовка к путешествию
 
