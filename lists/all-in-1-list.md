@@ -52,12 +52,6 @@
 
 - [copass.org](https://copass.org)
 
-## Туры
-
-- [Level.travel](https://level.travel) – поиск туров по всем туроператорам. Горящие туры.
-
-- [Onlinetours](https://onlinetours.ru) – онлайн-магазин путешествий с турами в 80 стран.
-
 ## Карты
 
 - [Google Maps](https://google.com/maps), [Яндекс Карты](https://yandex.ru/maps), [Maps Me](https://maps.me), [Organic Maps](https://organicmaps.app), [Waze](https://waze.com) - карты
