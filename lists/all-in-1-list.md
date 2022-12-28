@@ -363,3 +363,7 @@
 - [OnTheSnow](https://onthesnow.co.uk) - прогноз погоды
 
 - [Liftopia](https://liftopia.com) - скидки
+
+### Legal
+
+- [Flightright](https://flightright.com), [AirHelp](https://airhelp.com) - оформление компенсаций при задержке или отмене рейсов
