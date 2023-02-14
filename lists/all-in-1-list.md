@@ -28,7 +28,7 @@
 
 - [Booking](https://booking.com), [Airbnb](https://airbnb.com), [Expedia](https://expedia.com), [Hotels](https://hotels.com)
 
-- [Hotellook](https://hotellook.com), [HotelsCombined](https://hotelscombined.com), [KAYAK](https://kayak.ru/hotels)– мета-поисковики.
+- [Hotellook](https://hotellook.com), [HotelsCombined](https://hotelscombined.com), [KAYAK](https://kayak.com/hotels)– мета-поисковики.
 
 - [VRBO](https://vrbo.com) – работает по тому же принципу, что и AirBnb, но квартир в нем чуть меньше.
 
@@ -173,7 +173,7 @@
 ## Подготовка к путешествию
 
 - [Sherpa](https://apply.joinsherpa.com/travel-restrictions) - правила въезда в разные страны (информация о визах и COVID-ограничениях).
--
+
 - [Re-open EU](https://reopen.europa.eu) - информация о визах и COVID-ограничениях в Европе.
 
 - [EveryTimezone](https://everytimezone.com), [WorldTimeBuddy](https://worldtimebuddy.com) - часовые пояса.
@@ -210,15 +210,7 @@
 
 ## Круизы
 
-- [MCruises](https://mcruises.ru) – компания «Круизный Дом», специализированный сайт бронирования морских и речных круизов по всему миру на русском языке. Сервис объединяет все крупнейшие мировые и российские круизные компании, сообщает о спецпредложениях и скидках.
-
-- [CruClub](https://cruclub.ru),[Atlantis Line](https://atlantisline.ru),[Go Cruise](https://gocruise.ru) – туроператор морских круизов.
-
-- [Breeze.ru](https://breeze.ru) – круизная компания «Бризлайн». Можно подобрать круиз на сайте.
-
-- [Инфлот](https://inflottravel.ru)круизы по живописным местам планеты на круизных лайнерах класса люкс.
-
-- [Viking Line](https://vikingline.ru) – паромы и круизы по Приблатике и Скандинавии. Часто бывают распродажи, (5 евро за Хельсинки-Стокгольм-Хельсинки).
+- [Viking Line](https://sales.vikingline.com) – паромы и круизы по Приблатике и Скандинавии.
 
 ## Аренда авто
 
@@ -331,12 +323,6 @@
 - [Workaway](https://workaway.info) – сайт-лидер в поиске волонтёрской работы за рубежом. Можно найти, что угодно: от преподавания английского до стройки фермы, от работы в хостеле до ухода за старикам. За работу волонтёры получают жильё, еду, погружение в культуру страны, иногда другие бонусы (скидки на экскурсии, участие в мастер-классах и т.п.) Транспорт необходимо оплачивать самостоятельно.
 
 - [Jobbatical](https://jobbatical.com) – сайт, помогающий найти работу в разных компаниях в разных городах мира. Будьте готовы к переезду и контракту на 12 месяцев в IT компании.
-
-- [Aiesec](https://aiesec.ru) – платформа для студентов и молодежи. Можно найти стажировку в разных странах. Например, преподавать английский язык для школьников в Бразилии, Индии или Китае.
-
-- [Tripsecrets/волонтерство](https://tripsecrets.ru/chance/volunteerism/#.WKvz6farPMk) – раздел сайта Tripsecrets о волонтерских программах.
-
-- [Tripsecrets/work-and-travel](https://tripsecrets.ru/chance/work-and-travel) – раздел сайта Tripsecrets о вакансиях и стажировках.
 
 - [Hosteljobs](https://hosteljobs.net) – работа в хостелах по всему миру. Иногда за деньги, иногда просто за проживание и еду. Обычно не более 4- 5 часов в день.
 
