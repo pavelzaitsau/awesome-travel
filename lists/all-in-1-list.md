@@ -27,24 +27,17 @@
 ## Жилье
 
 - [Booking](https://booking.com), [Airbnb](https://airbnb.com), [Expedia](https://expedia.com), [Hotels](https://hotels.com)
-
 - [Hotellook](https://hotellook.com), [HotelsCombined](https://hotelscombined.com), [KAYAK](https://kayak.com/hotels)– мета-поисковики.
-
 - [VRBO](https://vrbo.com) – работает по тому же принципу, что и AirBnb, но квартир в нем чуть меньше.
-
 - [Roomer](https://roomertravel.com) – интересный сервис по покупке со скидкой чужих броней (возможно).
-
-- [HotelTonight](https://hoteltonight.com/ru) – поиск отелей в день заезда.
-
+- [HotelTonight](https://hoteltonight.com) – поиск отелей в день заезда.
 - [Agoda.com](https://agoda.com) –  поисковик для жилья в Азии.
-
 - [Hostelworld.com](https://hostelworld.com), [famoushostels.com](https://famoushostels.com) – хостелы.
-
 - [Hotwire.com](https://hotwire.com) – «слепое» бронирование
-
 - [gogoplaces.co](https://gogoplaces.co), [anyplace.com](https://anyplace.com), [nomadrental.com](https://nomadrental.com) - дома и квартиры в аренду.
-
 - [r4r.pl](https://r4r.pl) - Жилье в Польше
+- [ostrovok.ru](https://ostrovok.ru), [Яндекс.Путешествия](https://travel.yandex.ru) - жилье в России и Беларуси 
+
 
 ## Коворкинги
 
@@ -96,7 +89,7 @@
 
 - [elron.ee](https://elron.ee) – Эстония
 
-- [ldz.lv/ru](https://ldz.lv/ru) - Латвия
+- [ldz.lv](https://ldz.lv) - Латвия
 
 - [litrail.lt](https://litrail.lt) – Литва
 
@@ -310,7 +303,7 @@
 
 ## Экскурсии и аудиогиды
 
-- [Izi travel](https://izi.travel/ru) – большая, качественная и бесплатная коллекция аудио-гидов по городам и музеям.
+- [Izi travel](https://izi.travel) – большая, качественная и бесплатная коллекция аудио-гидов по городам и музеям.
 
 - [Stay.com](https://stay.com) – сайт, который формирует для вас индивидуальный путеводитель по самым интересным местам выбранного города. Вы выбираете интересные достопримечательности, а сервис составляет подробное руководство с картами и описаниями, которое вы можете распечатать или загрузить на своё мобильное устройство и использовать в режиме оффлайн. И всё это бесплатно!
 
