@@ -281,7 +281,7 @@
 
 - [MetroTurizm](https://metroturizm.com.tr), [Obilet.com](https://obilet.com) - Турция
 
-- [TicketBus.by](https://ticketbus.by), [InfoBus](https://infobus.by) - Беларусь
+- [TicketBus.by](https://ticketbus.by), [InfoBus](https://infobus.by), [Atlas](https://atlasbus.by) - Беларусь
 
 - [Infotec.be](https://infotec.be), [Delijn.be](https://delijn.be/index.htm) - Бельгия
 
