@@ -36,14 +36,11 @@
 - [Hotwire.com](https://hotwire.com) – «слепое» бронирование
 - [gogoplaces.co](https://gogoplaces.co), [anyplace.com](https://anyplace.com), [nomadrental.com](https://nomadrental.com) - дома и квартиры в аренду.
 - [r4r.pl](https://r4r.pl) - Жилье в Польше
-- [ostrovok.ru](https://ostrovok.ru), [Яндекс.Путешествия](https://travel.yandex.ru) - жилье в России и Беларуси 
-
+- [ostrovok.ru](https://ostrovok.ru), [Яндекс.Путешествия](https://travel.yandex.ru) - жилье в России и Беларуси
 
 ## Коворкинги
 
-- [workfrom.co](https://workfrom.co)
-
-- [copass.org](https://copass.org)
+- [workfrom.co](https://workfrom.co), [copass.org](https://copass.org), [coworker.com](https://coworker.com)
 
 ## Карты
 
@@ -105,7 +102,7 @@
 
 - [renfe.es](https://renfe.es) - Испания
 
-- [trenitalia.com](https://trenitalia.com)б [italotreno.it](https://italotreno.it) - Италия
+- [trenitalia.com](https://trenitalia.com), [italotreno.it](https://italotreno.it) - Италия
 
 - [mzi.mk](https://mzi.mk) - Македония
 
@@ -136,12 +133,6 @@
 - [cd.cz](https://cd.cz) - Чехия
 
 - [sj.se](https://sj.se) - Швеция
-
-## Такси, трансферы
-
-- [Uber](https://get.uber.com), [Bolt](https://bolt.eu), [Lyft](https://lyft.com), [Yandex Taxi](https://taxi.yandex.ru)
-
-- [Kiwitaxi](https://kiwitaxi.com), [Intui.travel](https://intui.travel) – трансфер из аэропорта в город
 
 ## Визы
 
@@ -199,7 +190,7 @@
 
 - [Baliforum.ru](https://baliforum.ru) – форум «русского» Бали. Объявления о дешевом жилье, события, знакомства и так далее.
 
-- [БДСМ (база данных сервисов миграции)](https://parol.notion.site/c8dc42d27eb54aff91f93e4f27e08140) — Список агентств и платформ, разными способами помогающие при эмиграции или релокации
+- [БДСМ (база данных сервисов миграции)](https://parol.notion.site/parol/c8dc42d27eb54aff91f93e4f27e08140) — Список агентств и платформ, разными способами помогающие при эмиграции или релокации
 
 ## Круизы
 
@@ -207,77 +198,49 @@
 
 ## Аренда авто
 
-- [Rentalcars](https://rentalcars.com), [Car-traveler.com](https://rentalcars.com), - [Economybookings](https://economycarrentals.com), [Europcar](https://europcar.com), [Holiday Autos](https://holidayautos.com)– Агрегаторы
+- [Rentalcars](https://rentalcars.com), [Car-traveler.com](https://rentalcars.com), - [Economybookings](https://economycarrentals.com), [Europcar](https://europcar.com), [Holiday Autos](https://holidayautos.com) – Агрегаторы
 
 - [LocalRent.me](https://localrent.com) – брокер аренды автомобилей. Лучший выбор для аренды авто в Черногории, Крыму, Сочи, Краснодаре, Чехии.
 
 ## Автобусы
 
-- [Busfor](https://busfor.pl) – автобусы по России. Часто бывают распродажи и скидки – Москва – Питер за 100 р., например.
+- [Check My Bus](https://checkmybus.com) - Метапоиски
 
-- [Checkmybus.com](https://checkmybus.com) – все варианты добраться из точки в точку. Еще и поезда показывает.
+- [FlixBus](https://flixbus.com), [Ecolines](https://ecolines.net), [Luxexpress](https://luxexpress.eu) – Европа
 
-- [Ecolines](https://ecolines.net) – крупнейший и старейший перевозчик Восточной Европы, который осуществляет сообщение между 21-й страной и 205-ю городами Европы. Кроме того, у Эколайнс существует накопительная система бонусов, и при активных путешествиях можно получать бесплатные поездки.
-
-- [Luxexpress](https://luxexpress.eu) – европейский бюджетный перевозчик. Работает в Центральной и Восточной Европе, Прибалтике. Часто проводит распродажи: из Москвы и Петербурга в Прибалтику или Польшу от 475 р.
-
-- [PlusBus](https://plusbus.pl), [Bilety.pl](https://bilety.pl), [NeoBus](https://neobus.pl), [TaniBus](https://tanibus.com), [Biacomex](https://autokary.biacomex.pl) - Польша
+- [PlusBus](https://plusbus.pl), [Bilety.pl](https://bilety.pl), [NeoBus](https://neobus.pl), [TaniBus](https://tanibus.com), [Biacomex](https://autokary.biacomex.pl), [Busfor](https://busfor.pl) - Польша
 
 - [Regiojet](https://regiojet.cz) – Чехия
 
-- [Intercars](https://intercars-tickets.com) – из Москвы и Минска в Европу
-
-- [OneBus](https://onebus.de) – немецкий автобусный перевозчик с возможностью добраться также в Рим и Прагу.
-
 - [OnniBus](https://onnibus.com), [ExpressBus](https://expressbus.fi), [Pohjolan Liikenne](https://pohjolanliikenne.fi) – Финляндия
 
-- [Motyl-SA](https://brest-lublin.pl) – обслуживает маршрут Брест – Люблин
+- [Orange Ways](https://orangeways.com) – Венгрия
 
-- [Orange Ways](https://orangeways.com) – венгерский перевозчик с охватом соседних стран
+- [WestBus](https://westbus.at) – Австрия
 
-- [WestBus](https://westbus.at) – австрийский перевозчик, радует возможностью покупать комбинированные билеты (автобус + поезд). Кроме Австрии, можно уехать в Хорватию, Венгрию, Германию, Словакию.
+- [DeinBus](https://deinbus.de), [OneBus](https://onebus.de), [BerlinLinienBus](https://berlinlinienbus.de), [PostBus](https://postbus.de) – Германия
 
-- [DeinBus](https://deinbus.de) – преимущественно – города Германии + Страсбург и Прага
+- [Ouibus](https://fr.ouibus.com) – Франция
 
-- [BerlinLinienBus](https://berlinlinienbus.de) – довольно разветвленная сеть, включающая, кроме Германии, города Великобритании, Нидерландов, Франции, Бельгии, Чехии, Венгрии
-
-- [Student Agency](https://bustickets.studentagency.eu) – широкая автобусная сеть (от Балкан до Великобритании)
-
-- [Ouibus](https://fr.ouibus.com) – французский перевозчик с ценами чуть ниже поезда и заездами в страны Бенилюкса.
-
-- [Avanza](https://avanzabus.com) – рейсы по Испании и Португалии.
-
-- [Alsa](https://alsa.es), [Socibus](https://socibus.es) – Испания
+- [Alsa](https://alsa.es), [Socibus](https://socibus.es), [avanza](https://www.avanzabus.com) – Испания
 
 - [Rede Nacional de Expressos](https://rede-expressos.pt), [Eva](https://eva-bus.com) – Португалия
 
-- [Swebus](https://swebus.se) – шведский, как понятно из названия, перевозчик, бонусом – рейсы в Норвегию, Данию, Германию и Чехию.
-
-- [Svenska Buss](https://svenskabuss.se) – большое число рейсов по Швеции. Сайт на шведском, но пугаться не стоит.
+- [Swebus](https://swebus.se), [Svenska Buss](https://svenskabuss.se) – Швеция
 
 - [Nor-Way](https://nor-way.no), [NettBus](https://nettbuss.no) – Норвегия
 
-- [Гюнсел](https://gunsel.ua) – украинский перевозчик с рейсами между всеми крупными городами страны, а теперь еще и международным рейсом в Варшаву.
+- [Гюнсел](https://gunsel.ua), [Ewe](https://ewe.pl.ua) – Украина
 
-- [Ewe](https://ewe.pl.ua) – автобусы из Украины в Чехию и Польшу. Внимание – нужна регистрация на сайте.
+- [Bus Eireann](https://buseireann.ie), [JJ Kavanagh & Sons](https://jjkavanagh.ie) – Ирландия
 
-- [Bus Eireann](https://buseireann.ie) – осуществляет перевозки не только внутри Ирландии, но и в Великобританию
+- [Abilldskou](https://abildskou.dk) – Дания
 
-- [JJ Kavanagh & Sons](https://jjkavanagh.ie) – транспортная компания с почти вековой историей (возят с 1919 года) в разные направления Ирландии.
+- [Niš-ekspres](https://nis-ekspres.rs), [BS Tours](https://bstours.rs) – Сербия
 
-- [Abilldskou](https://abildskou.dk) – автобусная компания перевозит пассажиров не только внутри Дании, но и в Германию
+- [Flibco](https://flibco.com) – Люксембург
 
-- [Niš-ekspres](https://nis-ekspres.rs) – старейший перевозчик Cербии. Осуществляет поездки по городским, междугородним и международным маршрутам. Есть скидки на семейные, студенческие билеты и поездки туда-обратно.
-
-- [BS Tours](https://bstours.rs) – компания занимается как пассажирскими перевозками по Сербии, так и организацией экскурсионных туров по Белграду
-
-- [Flibco](https://flibco.com) – автобусный перевозчик по Люксембургу, ездит в бюджетные аэропорты Европы (Брюссель-Шарлеруа и Франкфурт-Хахн)
-
-- [Etap](https://etapgroup.com) – болгарский перевозчик с охватом 90% территории страны. Иногда бывают распродажи.
-
-- [Tiger Express](https://tigerexpress.eu) – поездки из Остравы (Восточная Чехия), доезжает до аэропортов в Австрии, Польше, ездит в Словакию и Украину (Львов).
-
-- [PostBus](https://postbus.de) – перевозчик по Германии, Австрии и Швейцарии
+- [Etap](https://etapgroup.com) – Болгария
 
 - [MetroTurizm](https://metroturizm.com.tr), [Obilet.com](https://obilet.com) - Турция
 
@@ -287,7 +250,7 @@
 
 - [Bgrazpisanie.com](https://bgrazpisanie.com) - Болгария
 
-- [Nationalexpress.com](https://nationalexpress.com/home.aspx) - Великобритания
+- [Nationalexpress.com](https://nationalexpress.com) - Великобритания
 
 - [Busliniensuche.de](https://busliniensuche.de) - Германия
 
@@ -297,7 +260,7 @@
 
 - [Miykvytok.com](https://miykvytok.com) - Украина
 
-- [Fahrplanfelder.ch](https://fahrplanfelder.ch/de/willkommen.html) - Швейцария
+- [Fahrplanfelder.ch](https://fahrplanfelder.ch) - Швейцария
 
 - [Tpilet.ee](https://tpilet.ee) - Эстония
 
@@ -346,3 +309,13 @@
 ### Legal
 
 - [Flightright](https://flightright.com), [AirHelp](https://airhelp.com) - оформление компенсаций при задержке или отмене рейсов
+
+### SIM
+
+- [airalo](https://airalo.com) - eSIM для интернета без номера телефона
+
+- [Drimsim](https://drimsim.com) - международная sim и esim с роумингом по всему миру
+
+### VPN
+
+- [IVPN](https://ivpn.net) - недорогой WireGuard и OpenVPN с серверами во многих странах за 2$ в неделю
