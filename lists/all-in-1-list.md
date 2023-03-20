@@ -308,7 +308,7 @@
 
 ### Legal
 
-- [Flightright](https://flightright.com), [AirHelp](https://airhelp.com) - оформление компенсаций при задержке или отмене рейсов
+- [Flightright](https://flightright.com), [AirHelp](https://airhelp.com), [Compensair](https://compensair.com) - оформление компенсаций при задержке или отмене рейсов
 
 ### SIM
 
