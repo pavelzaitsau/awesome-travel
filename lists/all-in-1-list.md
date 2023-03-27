@@ -40,7 +40,7 @@
 
 ## Коворкинги
 
-- [workfrom.co](https://workfrom.co), [copass.org](https://copass.org), [coworker.com](https://coworker.com)
+- [workfrom.co](https://workfrom.co), [copass.org](https://copass.org), [coworker.com](https://coworker.com), [getcroissant.com](https://getcroissant.com)
 
 ## Карты
 
