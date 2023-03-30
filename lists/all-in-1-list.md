@@ -12,7 +12,7 @@
 
 ## Авиабилеты
 
-- [Aviasales](https://aviasales.ru), [Skyscanner](https://skyscanner.net), [OneTwoTrip](https://onetwotrip.com),[Momondo](https://momondo.com),[Kayak](https://kayak.com),[AnyWayAnyDay](https://anywayanyday.com) - метапоиски
+- [Aviasales](https://aviasales.ru), [Skyscanner](https://skyscanner.net), [OneTwoTrip](https://onetwotrip.com), [Momondo](https://momondo.com), [Kayak](https://kayak.com), [AnyWayAnyDay](https://anywayanyday.com) - метапоиски
 
 - [Google Flights](https://google.com/flights) – агрегатор Google. Там есть очень удобная опция – можно указать аэропорт отправления, даты и на карте видеть города, куда можно улететь, с ценами на билеты.
 
