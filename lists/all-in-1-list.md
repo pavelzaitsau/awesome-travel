@@ -48,6 +48,10 @@
 
 - [Wikimapia](https://wikimapia.org) – свободные для редактирования карты с возможностью комментирования объектов
 
+- [AllTrails](https://www.alltrails.com), [Wikiloc](https://www.wikiloc.com/) - готовые хайкинговые маршруты
+
+- [Manymap](https://manymap.io) - конструктор карт и маршрутов
+
 - [Multi Maps](https://mmaps.net) – все картографические сервисы на одном сайте
 
 - [Use-It](https://use-it.travel) – туристические карты европейских городов, составленные местными жителями
@@ -56,13 +60,9 @@
 
 - [hoodmaps.com](https://hoodmaps.com) - описание районов городов
 
-- [activetrip.me](https://activetrip.me/map) - построение маршрутов
-
 - [wifimap.io](https://wifimap.io) - карта wi-fi открытых точек
 
-- [eparki.pl](https://eparki.pl) - карта парков Польши
-
-- [mapa-turystyczna.pl](https://mapa-turystyczna.pl) - карта пеших маршрутов Польши
+- [mapa-turystyczna.pl](https://mapa-turystyczna.pl), [eparki.pl](https://eparki.pl) - карты Польши
 
 ## Поезда
 
@@ -312,9 +312,9 @@
 
 ### SIM
 
-- [airalo](https://airalo.com) - eSIM для интернета без номера телефона
+- [airalo](https://airalo.com) - esim для интернета без номера телефона
 
-- [Drimsim](https://drimsim.com) - международная sim и esim с роумингом по всему миру
+- [Drimsim](https://drimsim.com), [Unisim](https://unisim.net/) - международная sim и esim с роумингом по всему миру
 
 ### VPN
 
