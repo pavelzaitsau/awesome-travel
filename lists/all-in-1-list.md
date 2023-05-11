@@ -309,6 +309,7 @@
 ### Legal
 
 - [Flightright](https://flightright.com), [AirHelp](https://airhelp.com), [Compensair](https://compensair.com) - оформление компенсаций при задержке или отмене рейсов
+- [Palau ID](https://rns.id) - Цифровое web3 резидентство островов Палау. Работает для регистрации  Wise и всяких бирж типа Binance.
 
 ### SIM
 
